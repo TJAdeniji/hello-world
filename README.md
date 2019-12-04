@@ -1,2 +1,5 @@
 # hello-world
-First Repository 
+Hello people
+
+This is TJ, just learning how to use Github. 
+Nothing to see here.
